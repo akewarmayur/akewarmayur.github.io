@@ -1,0 +1,17 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#08111F"/>
+  <circle cx="120" cy="120" r="260" fill="#62E6D3" fill-opacity="0.2"/>
+  <circle cx="1060" cy="80" r="260" fill="#9B8CFF" fill-opacity="0.22"/>
+  <circle cx="920" cy="560" r="300" fill="#F8CC7A" fill-opacity="0.11"/>
+  <path d="M75 520C198 432 319 470 438 390C574 299 729 340 858 251C965 178 1048 176 1130 112" stroke="#62E6D3" stroke-opacity="0.28" stroke-width="5"/>
+  <path d="M95 130C258 210 365 170 496 250C640 338 805 286 934 375C1017 432 1080 453 1142 420" stroke="#9B8CFF" stroke-opacity="0.25" stroke-width="5"/>
+  <circle cx="438" cy="390" r="8" fill="#62E6D3" fill-opacity="0.85"/>
+  <circle cx="858" cy="251" r="8" fill="#62E6D3" fill-opacity="0.85"/>
+  <circle cx="496" cy="250" r="8" fill="#9B8CFF" fill-opacity="0.85"/>
+  <circle cx="934" cy="375" r="8" fill="#9B8CFF" fill-opacity="0.85"/>
+  <rect x="82" y="86" width="1036" height="458" rx="44" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.16"/>
+  <text x="122" y="200" fill="#62E6D3" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="5">MAYUR AKEWAR</text>
+  <text x="122" y="300" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="900">AI, Systems, HPC,</text>
+  <text x="122" y="384" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="900">and Quantum AI</text>
+  <text x="122" y="462" fill="#B8C3D6" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="600">Ph.D. Student · Research Assistant · NERSC Berkeley Lab Intern</text>
+</svg>
